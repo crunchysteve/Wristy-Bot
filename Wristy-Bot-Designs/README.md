@@ -15,5 +15,5 @@ OpenSCAD files for Kick-Bot
 
 - [KickActuatorMounted.stl](KickActuatorMounted.stl) The slicer-ready file of the above for your 3D printer's slicer software.
 
-## Kick-Bot
+## Stick-Bot
 OpenSCAD files for Stick-Bot will follow.
