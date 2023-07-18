@@ -1,38 +1,10 @@
 //  Modified MIT License - Kick-Bot component of the Wristy-Bot System
-//  ----------------------------
+//  See LICENCE for details.
 //  Copyright ©2023 "Crunchysteve"
-
-//  Permission is hereby granted, free of charge (subject to Condition 2, below), 
-//  to any person obtaining a copy of this software and associated documentation 
-//  files (the "Software"), to deal in the Software without restriction, 
-//  including without limitation the rights to...
-//  use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-//  copies of the Software, and to permit persons to whom the Software is
-//  furnished to do so, subject to the following conditions:
-
-//  1. The above copyright notice and this permission notice shall be included in all
-//  copies or substantial portions of the Software, including attibution to contributors.
-//  2. That manufacturing systems based on these codes, designs and parts, requires an 
-//  additional, commercial clause to the licence. This doesn't exclude mass production, 
-//  but it makes a strict requirement to negotiate a licence from project contributors 
-//  and payment to the project collective.
-
-//  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-//  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-//  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-//  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-//  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-//  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-//  SOFTWARE.
-//  
 //  -----------------------------------------------------------------------------
 //  Kick-Bot prototype MIDI firmware
 //  -----------------------------------------------------------------------------
 //  Ready for alpha-testing, only, not yet built and uploaded. Use at own risk!
-//  Kick-Bot is a relatively simple piece of code, but later might add support 
-//  for switching between MIDI Kick1 as a beater hit-and-rebound with MIDI Kick2 
-//  being hit-and-hold until MIDI NoteOff or dual beater/dual drum operation.
-
 //  declare constants
 #define MINVELO  64           // Map minimum velocity
 #define MAXVELO 127           // Map maximum velocity
