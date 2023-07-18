@@ -1,5 +1,5 @@
 # Wristy-Bot
-![Kick-Bot mechanism mounted on a modified kick drum pedal attached to a 16" kick drum](./Mechanisms/Kick-Bot/IMG_6734.JPG)
+![Kick-Bot mechanism mounted on a modified kick drum pedal attached to a 16" kick drum](./img/IMG_6734.JPG)
 Image: Kick-Bot mechanism mounted on a modified kick drum pedal attached to a 16" kick drum.
  
 Arduino code and OpenSCAD drawings for a modular, adaptable robotic drum kit powered by MIDI input. There are three main principles to the project, the wrist-flick, modular design and adaptablity. This will allow almost any amount of drums, in almost any configuration, to be powered by any computer, sequencer or drum machine. Be it a rehearsal aid the a slightly more "human" feel, or a major, distributed art installation Wristy-Bot will be adaptable to your needs.
