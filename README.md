@@ -1,5 +1,5 @@
 # Wristy-Bot
-![Stick-Bot mechanism mounted on a 10" wood snare](./src/branch/main/Mechanisms/Kick-Bot/IMG_6734.JPG) 
+![Stick-Bot mechanism mounted on a 10" wood snare](./Mechanisms/Kick-Bot/IMG_6734.JPG) 
 Arduino code and OpenSCAD drawings for a modular, adaptable robotic drum kit powered by MIDI input. There are three main principles to the project, the wrist-flick, modular design and adaptablity. This will allow almost any amount of drums, in almost any configuration, to be powered by any computer, sequencer or drum machine. Be it a rehearsal aid the a slightly more "human" feel, or a major, distributed art installation Wristy-Bot will be adaptable to your needs.
 
 Preliminary code and designs will be added over the next few days, as it is tidied up a little. CAD drawings are in OpenSCAD format. .scad files can be imported into FreeCAD and many other CAD programs if you need to work in a visual environment.
