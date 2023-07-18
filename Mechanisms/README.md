@@ -14,5 +14,5 @@ Stick-Bot is the general workhorse of the system. More or less using the same ha
 
 For other drums, it will be up to your needs to decide on double or single stick setups. Two stick-bots will also be needed for the hi-hat rig, also as a left and right stick, alternating based on the last stick that operated (left-right-left-right) and whether a snare hit was called (left or right), flicking the next due hit to the opposite.
 
-# Hat-Bot
+## Hat-Bot
 Hat-Bot will consist of 2 stick-bots and a hi-hat lifting mechanism, powered by a high torque digital servo motor. Hat-Bot is still under development.
