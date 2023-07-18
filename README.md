@@ -1,5 +1,5 @@
 # Wristy-Bot
-![Stick-Bot mechanism mounted on a 10" wood snare](./Mechanisms/Kick-Bot/IMG_6734.JPG) 
+![Kick-Bot mechanism mounted on a 16" kick drum](./Mechanisms/Kick-Bot/IMG_6734.JPG) 
 Arduino code and OpenSCAD drawings for a modular, adaptable robotic drum kit powered by MIDI input. There are three main principles to the project, the wrist-flick, modular design and adaptablity. This will allow almost any amount of drums, in almost any configuration, to be powered by any computer, sequencer or drum machine. Be it a rehearsal aid the a slightly more "human" feel, or a major, distributed art installation Wristy-Bot will be adaptable to your needs.
 
 Preliminary code and designs will be added over the next few days, as it is tidied up a little. CAD drawings are in OpenSCAD format. .scad files can be imported into FreeCAD and many other CAD programs if you need to work in a visual environment.
@@ -8,6 +8,7 @@ Preliminary code and designs will be added over the next few days, as it is tidi
 Human drummers, well, good ones, at least, use a wrist-flick action, holding the stick near its balance point, cradling the back of the stick on their ring and pinky fingers. Propulsion stops just before the stick hits the skin, and the standard grip allows the stick to continue rotating until it hits the skin, rebounds and comes back to rest with the back of the stick on the minor fingers. While the CAD drawings with this repo show a much simpler mechanism than the human hand and wrist, the principle is the same - a sharp impulse force propells the tip of the stick towards the drum, but not driving the stick into the drum, instead allowing it to rotate beyond the actuator limit, then strike and rebound. The mechanism allows the "underbalanced" stick to repark itself by falling back to it's natural rest, with the help of the rebound as well as the balance of the stick.
 
 ## Modular Design
+
 The aim of this project is to create a public document that will help musicians with a modicum of microcontroller skills, or with a friend with said skills, to build a robotic drum kit, driven by a MIDI enabled drum machine or computer DAW (such as Logic Pro X or Ableton), such that one can practice with the more natural sound of real drums. The desire is to create an archive of firmware code, STL files for a set of 3D printable parts to mount the stick, beater and hi-hat mechanisms on mostly standard drum hardware. Each drum stick mech will be a standalone instrument, setup in firmware to read only the relevant MIDI codes for the drum it plays. All of the physical parts, such as the microcontroller, car door lock actuators and power control modules are readily available on eBay and Ali Express, and a recommended BOM will also be included with suggested search terms.
 
 ## Adaptable To Any Drum Kit
