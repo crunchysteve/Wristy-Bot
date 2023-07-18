@@ -11,7 +11,7 @@ The 3D modelling files are as follows:-
 - [KickActuatorMount.scad](./KickActuatorMount.scad) The OpenSCAD 3D model of the motor bracket. (Also importable to other CAD programs.)
 - [KickActuatorMount.stl](./KickActuatorMount.stl) The slicer-ready mesh model for 3D printing.
 
-PLA will probably eventually weaken and fail. I'm using PETG as it's nearly as strong as and less toxic than ABS, as well as lightly more elastic than PLA or ABS and much easier to print on a basic machine than ABS. The SCAD model could also be used to machine a metal bracket out of aluminium channel or square hollow, either with hand tools or with a suitable CNC router.
+PLA will probably eventually weaken and fail. I'm using PETG as it's nearly as strong as, and less toxic than, ABS as well as slightly more elastic than PLA or ABS. It's also much easier to print on a basic machine than ABS. The SCAD model could also be used to machine a metal bracket out of aluminium channel or square hollow, either with hand tools or with a suitable CNC router.
 
 I used this linear actuator...
 [![door lock motor](../../img/actuator.jpg)<br />links to eBay search](https://www.ebay.com.au/sch/i.html?_nkw=car+door+lock+actuator&_sacat=131090&_sop=15&_svsrch=1)
