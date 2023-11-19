@@ -1,4 +1,4 @@
-`` MATERIALS
+``` MATERIALS
 2x 1m lengths of 60x3 aluminium flatbar will build 10 (2x sides)
 1x 1m length of 40x20x2   "     square tube will build 10 (rocker)
 1x 1m length of 10mm aluminium 
@@ -9,4 +9,4 @@
 1x 1m length of 40x12x1.6 aluminium 
                 angle will easily build brackets for 10 units.
 1x car door linear actuator
-``
+```
