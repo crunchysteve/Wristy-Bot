@@ -1,4 +1,4 @@
-``` OpenSCAD
+``` Text
 MATERIALS
 2x 1m lengths of 60x3 aluminium flatbar will build 10 (2x sides)
 1x 1m length of 40x20x2   "     square tube will build 10 (rocker)
