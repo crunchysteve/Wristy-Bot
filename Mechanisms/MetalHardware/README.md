@@ -1,5 +1,15 @@
 ## METAL HARDWARE
+I'm kind of in the middle of a crisis of faith with 3D printing and have been adding more conventional tools to my workshop. This came about from trying out a resin printer, with "envornmentally friendly, plant based resin," only to discover the stuff is as toxic as any other, more conventional resin. The stink hung around for days. It made me look at my "skip of shame", a kids' toy box mad to look like a mini skip ("dumpster" to North Americans) and, while it's not a lot of fails and sprues for 5 years of printing, it's still a lot of waste plastic that I'm still trying to find a use for. 
 
+So, I thought I need to look into better ways to make this hardware, not just for cutting down my plastics generation, but for accessibility, as well. Plenty of people have basic tools in their workshop, 3D printers are a little less common. Sure, they're affordable, but musicians would rather spend money on instruments than tools, I'm sure. I just happen to have printing as an option. So here is a design for the drumBot mechanism that uses standard aluminium extrusions. This design also includes brackets to mount the stickbots to drums with t-nuts, wood screws or rivnuts in the sides of the drum. Don't build this onto your main kit, use a stunt kit, but hey, easier to make, easier to mount and slightly better for the planet.
+
+![AluminiumDrumbot](https://github.com/crunchysteve/Wristy-Bot/assets/46626696/fd0eea31-9f6e-4f39-96f4-f761d27349f3)
+
+So far, I've only managed to redesign StickBot. KickBot is a tad trickier to do in metal, although not imossible. I need to find the right brackets, such as the hex hole lever, that is pushed by the actuator, to rotate the beater axle. HatBot is already mostly metal in construction and, if I design it to use standard v-slot extrusions, there are loads of standard brackets that can be pressed into service for mounting the lifter servo and the Stick Bots.
+
+There are some parts and materials you'll need to buy for this basic StickBot. I'll also upload some 2D drawings of each individual part, soon, and embed them here. These 2D plans will make it easier for those who don't read OpenSCAD, the CAD language I use to render my designs and create 3D printable models with.
+
+### BILL OF MATERIALS
 ``` Text
 MATERIALS
 (My materials are sourced from my local hardware and the actuators and bearings I sourced from eBay,
@@ -23,3 +33,5 @@ Assorted M3 screws and nuts, including...
   M3x 40mm if spacers are unthreaded or M3x 8mm if the spacers are threaded.
 Nuts, washers and other hardware as needed.
 ```
+### 2D SKETCHES
+(Coming soon)
