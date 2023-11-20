@@ -33,7 +33,8 @@ threaded them for M3 screws.)
 Assorted M3 screws and nuts, including...
   M3x 40mm if spacers are unthreaded or M3x 8mm if the spacers are threaded.
 
-Nuts, washers and other hardware as needed.
+Nuts, washers and other hardware as needed. I recommend nylok nuts and low dome head
+allen screws.
 ```
 
 ### 2D SKETCH
