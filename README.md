@@ -1,3 +1,10 @@
+# Table of Contents
+- [Wristy-Bot](#wristy-bot)
+  * [Why "Wristy-Bot"?](#why--wristy-bot--)
+  * [Modular Design](#modular-design)
+  * [Adaptable To Any Drum Kit](#adaptable-to-any-drum-kit)
+  * [Housekeeping](#housekeeping)
+
 # Wristy-Bot
 ![Kick-Bot mechanism mounted on a modified kick drum pedal attached to a 16" kick drum](./img/IMG_6734.JPG)
 Image: Kick-Bot mechanism mounted on a modified kick drum pedal attached to a 16" kick drum.
