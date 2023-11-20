@@ -1,5 +1,6 @@
 # Table of Contents
 - [Wristy-Bot](#wristy-bot)
+  * [Workshop-Friendy Metal Mech](#Workshop-Friendy-Metal-Mech)
   * [Modular Design](#modular-design)
   * [Adaptable To Any Drum Kit](#adaptable-to-any-drum-kit)
   * [Housekeeping](#housekeeping)
@@ -11,6 +12,8 @@ Image: Kick-Bot mechanism mounted on a modified kick drum pedal attached to a 16
 Arduino code and OpenSCAD drawings for a modular, adaptable robotic drum kit powered by MIDI input. There are three main principles to the project, the wrist-flick, modular design and adaptablity. This will allow almost any amount of drums, in almost any configuration, to be powered by any computer, sequencer or drum machine. Be it a rehearsal aid the a slightly more "human" feel, or a major, distributed art installation Wristy-Bot will be adaptable to your needs.
 
 Preliminary code and designs will be added over the next few days, as it is tidied up a little. CAD drawings are in OpenSCAD format. .scad files can be imported into FreeCAD and many other CAD programs if you need to work in a visual environment.
+
+## Workshop-Friendy Metal Mech
 
 I've also added a design for an [all metal mechanism for StickBot](https://github.com/crunchysteve/Wristy-Bot/blob/main/Mechanisms/MetalHardware/README.md) and will be adding details of how to do KickBot and HatBot without 3D printing as well. I figure that not everybody has access to a 3D printer and, while the plastic prototype parts work very reliably, reducing our reliance on plastics is not a bad thing.
 
