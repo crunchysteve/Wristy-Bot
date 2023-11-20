@@ -17,6 +17,8 @@ Preliminary code and designs will be added over the next few days, as it is tidi
 
 I've also added a design for an [all metal mechanism for StickBot](https://github.com/crunchysteve/Wristy-Bot/blob/main/Mechanisms/MetalHardware/README.md) and will be adding details of how to do KickBot and HatBot without 3D printing as well. I figure that not everybody has access to a 3D printer and, while the plastic prototype parts work very reliably, reducing our reliance on plastics is not a bad thing.
 
+![AluminiumDrumbot](https://github.com/crunchysteve/Wristy-Bot/assets/46626696/fd0eea31-9f6e-4f39-96f4-f761d27349f3)
+
 ## Why "Wristy-Bot"?
 Human drummers, well, good ones, at least, use a wrist-flick action, holding the stick near its balance point, cradling the back of the stick on their ring and pinky fingers. Propulsion stops just before the stick hits the skin, and the standard grip allows the stick to continue rotating until it hits the skin, where it rebounds and comes back to rest with the back of the stick on the minor fingers. While the CAD drawings with this repo show a much simpler mechanism than the human hand and wrist, the principle is the same - a sharp impulse force propells the tip of the stick towards the drum, but not driving the stick into the drum, instead allowing it to rotate beyond the actuator limit, then strike and rebound. The mechanism allows the "underbalanced" stick to repark itself by falling back to it's natural rest, with the help of the rebound as well as the balance of the stick.
 
