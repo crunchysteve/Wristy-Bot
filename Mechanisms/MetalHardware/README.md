@@ -12,8 +12,9 @@ There are some parts and materials you'll need to buy for this basic StickBot. I
 ### BILL OF MATERIALS
 ``` Text
 MATERIALS
-(My materials are sourced from my local hardware and the actuators and bearings I sourced from eBay,
-you may need to alter the design slightly. I also machined my own spacers and threaded them for M3 screws.)
+(My materials are sourced from my local hardware and the actuators and bearings I sourced
+from eBay, you may need to alter the design slightly. I also machined my own spacers and
+threaded them for M3 screws.)
 
 2x 1m lengths of 60x3 aluminium flatbar will build 10 (2x sides)
 1x 1m length of 40x20x2   "     square tube will build 10 (rocker)
@@ -31,6 +32,7 @@ you may need to alter the design slightly. I also machined my own spacers and th
 
 Assorted M3 screws and nuts, including...
   M3x 40mm if spacers are unthreaded or M3x 8mm if the spacers are threaded.
+
 Nuts, washers and other hardware as needed.
 ```
 ### 2D SKETCH
