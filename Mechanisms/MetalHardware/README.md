@@ -36,3 +36,4 @@ Nuts, washers and other hardware as needed.
 ### 2D SKETCH
 Details to follow, but anybody competent in their workshop should be able to build these parts from standard extrusions (even imperial, just divide the mm by 25.4 for inches) and standard bolt, nut and spacer hardware. The 8mm hole through the stick cradle is to accomodate the 2 MF83-2Z 8x3x3 flanged bearings. All other holes and slots are M3 (or 1/8 inch).
 ![MetalDrumBot](https://github.com/crunchysteve/Wristy-Bot/assets/46626696/8ccdbc0e-f4a1-462d-8ab4-e7f17e4e6e5f)
+Feel free to download these images or print this page.
