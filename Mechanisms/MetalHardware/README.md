@@ -35,7 +35,12 @@ Assorted M3 screws and nuts, including...
 
 Nuts, washers and other hardware as needed.
 ```
+
 ### 2D SKETCH
-Details to follow, but anybody competent in their workshop should be able to build these parts from standard extrusions (even imperial, just divide the mm by 25.4 for inches) and standard bolt, nut and spacer hardware. The 8mm hole through the stick cradle is to accomodate the 2 MF83-2Z 8x3x3 flanged bearings. All other holes and slots are M3 (or 1/8 inch).
+Details to follow, but anybody competent in their workshop should be able to build these parts from standard extrusions (even imperial, just divide the mm by 25.4 for inches) and standard bolt, nut and spacer hardware. The 8mm hole through the stick cradle is to accomodate the 2 MF83-2Z 8x3x3 flanged bearings like this... 
+![MF83-2Z_bearing_8mmODx3mmIDx3mmW](https://github.com/crunchysteve/Wristy-Bot/assets/46626696/0b125a91-bfa1-4089-88e4-811bca8c95a3)
+These a readily available on eBay, Ali or that evil dog Jeff's store if you must give your money to that rich thief. This is [the bearing I used](https://www.ebay.com.au/itm/264688273390).
+
+All other holes and slots are M3 (or 1/8 inch).
 ![MetalDrumBot](https://github.com/crunchysteve/Wristy-Bot/assets/46626696/8ccdbc0e-f4a1-462d-8ab4-e7f17e4e6e5f)
 Feel free to download these images or print this page.
