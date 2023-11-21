@@ -1,5 +1,5 @@
 # Table of Contents
-- [Metal Hardware](#METAL-HARDWARE)
+  * [Metal Hardware](#METAL-HARDWARE)
   * [Bill-of-Materials](#BILL-OF-MATERIALS)
   * [2D Sketch](#2D-SKETCH)
 
