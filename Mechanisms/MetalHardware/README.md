@@ -2,8 +2,8 @@
   * [Metal Hardware (Stick-Bot)](#METAL-HARDWARE-(Stick-Bot))
     * [Bill-of-Materials](#BILL-OF-MATERIALS)
     * [2D Sketch](#2D-SKETCH)
-  * [Metal Hardware (Kick-Bot)](#METAL-HARDWARE-(Kick-Bot))
-  * [Metal Hardware (Hat-Bot)](#METAL-HARDWARE-(Hat-Bot))
+  * [Metal Hardware (Kick-Bot)](#METAL-HARDWARE-Kick-Bot)
+  * [Metal Hardware (Hat-Bot)](#METAL-HARDWARE-Hat-Bot)
 
 ## METAL HARDWARE (Stick-Bot)
 I'm kind of in the middle of a crisis of faith with 3D printing and have been adding more conventional tools to my workshop. This came about from trying out a resin printer, with "envornmentally friendly, plant based resin," only to discover the stuff is as toxic as any other, more conventional resin. The stink hung around for days. It made me look at my "skip of shame", a kids' toy box made to look like a mini skip ("dumpster" to North Americans) and, while it's not a lot of fails and sprues for 5 years of printing, it's still a lot of waste plastic that I'm still trying to find a use for. 
