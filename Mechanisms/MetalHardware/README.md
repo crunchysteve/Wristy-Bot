@@ -56,8 +56,7 @@ All other holes and slots are M3 (or 1/8 inch).
 Feel free to download these images or print this page.
 
 ## METAL HARDWARE (Kick-Bot)
-![AllMetalKickBotBackSideRight](https://github.com/crunchysteve/Wristy-Bot/assets/46626696/0cadaf3c-f6bd-4e30-982f-212f056d62f1)
-![AllMetalKickDrumClampSideLeft](https://github.com/crunchysteve/Wristy-Bot/assets/46626696/3e1130da-fb38-4bd3-b0b2-88d545cced6f)
+![AllMetalKickBotBackSideRight](https://github.com/crunchysteve/Wristy-Bot/assets/46626696/0cadaf3c-f6bd-4e30-982f-212f056d62f1) ![AllMetalKickDrumClampSideLeft](https://github.com/crunchysteve/Wristy-Bot/assets/46626696/3e1130da-fb38-4bd3-b0b2-88d545cced6f)
 
 
 ## METAL HARDWARE (Hat-Bot)
