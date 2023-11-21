@@ -1,3 +1,11 @@
+# Table of Contents
+  * [Wristy-Bot Mechanisms](#wristy-bot-mechanisms)
+  * [Workshop-Friendy Metal Mech](#Workshop-Friendy-Metal-Mech)
+  * [Kick-Bot](#kick-bot)
+  * [Stick-Bot](#stick-bot)
+  * [Hat-Bot](#hat-bot)
+  * [Electronics](#electronics)
+
 # Wristy-Bot Mechanisms
 
 There are 3 basic mechanisms, [Kick-Bot](./Kick-Bot), [SnareMount](./SnareMount) and Hat-Bot, the latter being still in development. The files kept here, in the appropriate folders are the OpenSCAD CAD files for use as is, or for importing into your CAD software of choice for parametric mods to suit your kit.
