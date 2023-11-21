@@ -1,5 +1,5 @@
 # Table of Contents
-- [Wristy-Bot](#wristy-bot)
+  * [Wristy-Bot](#wristy-bot)
   * [Workshop-Friendy Metal Mech](#Workshop-Friendy-Metal-Mech)
   * [Modular Design](#modular-design)
   * [Adaptable To Any Drum Kit](#adaptable-to-any-drum-kit)
