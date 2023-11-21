@@ -1,6 +1,6 @@
 # Table of Contents
   * [Wristy-Bot Mechanisms](#wristy-bot-mechanisms)
-  * [Workshop-Friendy Metal Hardware](./MetalHardware/README.md#METAL-HARDWARE)
+  * [Workshop-Friendy Metal Hardware ->](./MetalHardware/README.md)
   * [Kick-Bot](#kick-bot)
   * [Stick-Bot](#stick-bot)
   * [Hat-Bot](#hat-bot)
