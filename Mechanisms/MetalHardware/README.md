@@ -57,7 +57,8 @@ Feel free to download these images or print this page.
 
 ## METAL HARDWARE (Kick-Bot)
 
-![AllMetalKickDrumClampSideLeftSmall](https://github.com/crunchysteve/Wristy-Bot/assets/46626696/90018c8c-9127-4373-adf4-6a15071e1b87) ![AllMetalKickBotBackSideRightSmall](https://github.com/crunchysteve/Wristy-Bot/assets/46626696/ec64366d-f83d-436a-9d5b-bc73e98782dc)
+|![AllMetalKickDrumClampSideLeftSmall](https://github.com/crunchysteve/Wristy-Bot/assets/46626696/90018c8c-9127-4373-adf4-6a15071e1b87)|![AllMetalKickBotBackSideRightSmall](https://github.com/crunchysteve/Wristy-Bot/assets/46626696/8b636b98-fa28-4431-8a0f-e744e1c4bc78)|
+
 
 ## METAL HARDWARE (Hat-Bot)
 (Coming Soon)
