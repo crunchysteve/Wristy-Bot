@@ -1,9 +1,9 @@
 # Table of Contents
-  * [Metal Hardware](#METAL-HARDWARE)
+  * [Metal Hardware (Stick-Bot)](#METAL-HARDWARE-(Stick-Bot))
   * [Bill-of-Materials](#BILL-OF-MATERIALS)
   * [2D Sketch](#2D-SKETCH)
 
-## METAL HARDWARE
+## METAL HARDWARE (Stick-Bot)
 I'm kind of in the middle of a crisis of faith with 3D printing and have been adding more conventional tools to my workshop. This came about from trying out a resin printer, with "envornmentally friendly, plant based resin," only to discover the stuff is as toxic as any other, more conventional resin. The stink hung around for days. It made me look at my "skip of shame", a kids' toy box made to look like a mini skip ("dumpster" to North Americans) and, while it's not a lot of fails and sprues for 5 years of printing, it's still a lot of waste plastic that I'm still trying to find a use for. 
 
 So, I thought I need to look into better ways to make this hardware, not just for cutting down my plastics generation, but for accessibility, as well. Plenty of people have basic tools in their workshop, 3D printers are a little less common. Sure, they're affordable, but musicians would rather spend money on instruments than tools, I'm sure. I just happen to have printing as an option. So here is a design for the drumBot mechanism that uses standard aluminium extrusions. This design also includes brackets to mount the stickbots to drums with t-nuts, wood screws or rivnuts in the sides of the drum. Don't build this onto your main kit, use a stunt kit, but hey, easier to make, easier to mount and slightly better for the planet.
