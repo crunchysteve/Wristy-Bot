@@ -62,6 +62,7 @@ An all metal version of Kick-Bot using a 120mm length of 50x50x3 aluminium tube 
 |  Left, drum-side view  |  right, back-side view  |
 |---|---|
 |![AllMetalKickDrumClampSideLeftSmall](https://github.com/crunchysteve/Wristy-Bot/assets/46626696/90018c8c-9127-4373-adf4-6a15071e1b87)|![AllMetalKickBotBackSideRightSmall](https://github.com/crunchysteve/Wristy-Bot/assets/46626696/8b636b98-fa28-4431-8a0f-e744e1c4bc78)|
+| At the front, the 50x50 angle has its horizontal flange facing forwards, cut out in the middle and drilled in the middle of each remaining flange. On either side of this cutout are 2 pieces of 40x12 angle and a 12x12 wood block to support it. This part of the assemblu clampes to the kick drum rim. The electrical connection end of the motor can be seen protruding through the 44mm hole in the back of the beater riser. The motor direct drives the beater, via a cylindrical perpendicular coupling. M4 grub screws provide the locking force to keep the coupling on the motor shaft and the beater in the coupling. |   |
 
 
 ## METAL HARDWARE (Hat-Bot)
