@@ -56,7 +56,10 @@ All other holes and slots are M3 (or 1/8 inch).
 Feel free to download these images or print this page.
 
 ## METAL HARDWARE (Kick-Bot)
-|   |   |
+
+An all metal version of Kick-Bot using a 120mm length of 50x50x3 aluminium tube and some lengths of 50x50x3 aluminium angle and 40x12x1.6 aluminium uneven angle. The drive is provided by an RS755 class 12v 4000rpm motor, coupled to a standard beater via a coupling made from a 20mm length of 20mm diameter aluminium solid bar. The shaft and beater holes are untapped, the smaller holes are threaded to provide clamping via M4 screws. 2D sketches coming soon.
+
+|  Left, drum-side view  |  right, back-side view  |
 |---|---|
 |![AllMetalKickDrumClampSideLeftSmall](https://github.com/crunchysteve/Wristy-Bot/assets/46626696/90018c8c-9127-4373-adf4-6a15071e1b87)|![AllMetalKickBotBackSideRightSmall](https://github.com/crunchysteve/Wristy-Bot/assets/46626696/8b636b98-fa28-4431-8a0f-e744e1c4bc78)|
 
