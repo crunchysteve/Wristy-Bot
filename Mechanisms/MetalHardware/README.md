@@ -1,7 +1,9 @@
 # Table of Contents
   * [Metal Hardware (Stick-Bot)](#METAL-HARDWARE-(Stick-Bot))
-  * [Bill-of-Materials](#BILL-OF-MATERIALS)
-  * [2D Sketch](#2D-SKETCH)
+    * [Bill-of-Materials](#BILL-OF-MATERIALS)
+    * [2D Sketch](#2D-SKETCH)
+  * [Metal Hardware (Kick-Bot)](#METAL-HARDWARE-(Kick-Bot))
+  * [Metal Hardware (Hat-Bot)](#METAL-HARDWARE-(Hat-Bot))
 
 ## METAL HARDWARE (Stick-Bot)
 I'm kind of in the middle of a crisis of faith with 3D printing and have been adding more conventional tools to my workshop. This came about from trying out a resin printer, with "envornmentally friendly, plant based resin," only to discover the stuff is as toxic as any other, more conventional resin. The stink hung around for days. It made me look at my "skip of shame", a kids' toy box made to look like a mini skip ("dumpster" to North Americans) and, while it's not a lot of fails and sprues for 5 years of printing, it's still a lot of waste plastic that I'm still trying to find a use for. 
@@ -52,3 +54,9 @@ These are readily available on eBay, Ali or that evil dog Jeff's store if you mu
 All other holes and slots are M3 (or 1/8 inch).
 ![MetalDrumBot](https://github.com/crunchysteve/Wristy-Bot/assets/46626696/8ccdbc0e-f4a1-462d-8ab4-e7f17e4e6e5f)
 Feel free to download these images or print this page.
+
+## METAL HARDWARE (Kick-Bot)
+(Coming Soon)
+
+## METAL HARDWARE (Hat-Bot)
+(Coming Soon)
