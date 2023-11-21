@@ -26,7 +26,7 @@ For other drums, it will be up to your needs to decide on double or single stick
 
 Hat-Bot will consist of 2 stick-bots and a hi-hat lifting mechanism, powered by a high torque digital servo motor. Hat-Bot is still under development.
 
-## Elctronics
+## Electronics
 
 ### Arduino or Others
 
