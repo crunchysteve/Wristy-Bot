@@ -8,7 +8,7 @@
 
 # Wristy-Bot Mechanisms
 
-There are 3 basic mechanisms, [Kick-Bot](./Kick-Bot), [SnareMount](./SnareMount) and Hat-Bot, the latter being still in development. The files kept here, in the appropriate folders are the OpenSCAD CAD files for use as is, or for importing into your CAD software of choice for parametric mods to suit your kit.
+There are 3 basic mechanisms, [Kick-Bot](./README.md), [SnareMount](./README.md) and Hat-Bot, the latter being still in development. The files kept here, in the appropriate folders are the OpenSCAD CAD files for use as is, or for importing into your CAD software of choice for parametric mods to suit your kit.
 
 Much of the scope of this project is to use logic to ensure signals from the drum machine are played how a human would play the piece. For example, if a snare right and hi-hat right are called at the same time, the hi-hat beat will be diverted to the left stick on the hats, causing repeated left hits to maintain the beat. This is part of what will generate a "human" feel.
 
