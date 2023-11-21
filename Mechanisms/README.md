@@ -5,6 +5,8 @@
   * [Stick-Bot](#stick-bot)
   * [Hat-Bot](#hat-bot)
   * [Electronics](#electronics)
+    * [Arduino Or Others](#arduino-or-others)
+    * [Motor Power Control](#motor-power-control)
 
 # Wristy-Bot Mechanisms
 
