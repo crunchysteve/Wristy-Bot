@@ -12,9 +12,9 @@ So, I thought I need to look into better ways to make this hardware, not just fo
 
 ![AluminiumDrumbot](https://github.com/crunchysteve/Wristy-Bot/assets/46626696/fd0eea31-9f6e-4f39-96f4-f761d27349f3)
 
-So far, I've only managed to redesign StickBot. KickBot is a tad trickier to do in metal, although not imossible. I need to find the right brackets, such as the hex hole lever, that is pushed by the actuator, to rotate the beater axle. HatBot is already mostly metal in construction and, if I design it to use standard v-slot extrusions, there are loads of standard brackets that can be pressed into service for mounting the lifter servo and the Stick Bots.
+Version 1 of the all metal Kick-Bot is now described below and 2D sketches for it will be uploaded soon. HatBot is already mostly metal in construction and, if I design it to use standard v-slot extrusions, there are loads of standard brackets that can be pressed into service for mounting the lifter servo and the Stick Bots.
 
-There are some parts and materials you'll need to buy for this basic StickBot. I'll also upload some 2D drawings of each individual part, soon, and embed them here. These 2D plans will make it easier for those who don't read OpenSCAD, the CAD language I use to render my designs and create 3D printable models with.
+There are some parts and materials you'll need to buy for this basic Stick-Bot. I'll also upload some 2D drawings of each individual part, soon, and embed them here. These 2D plans will make it easier for those who don't read OpenSCAD, the CAD language I use to render my designs and create 3D printable models with. Stick bot 2D plans are already uploaded, Kick-Bot 2D drawings will be next.
 
 ### BILL OF MATERIALS
 ``` Text
