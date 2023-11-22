@@ -33,9 +33,13 @@ Image: Stick-Bot mechanism mounted on a 10" wood snare.
 
 The aim of this project is to create a public document that will help musicians with a modicum of microcontroller skills, or with a friend with said skills, to build a robotic drum kit, driven by a MIDI enabled drum machine or computer DAW (such as Logic Pro X or Ableton), such that one can practice while jamming to the more natural sound of real drums. The desire is to create an archive of firmware code and STL files for a set of 3D printable parts to mount the stick, beater and hi-hat mechanisms on mostly standard drum hardware. Each drum stick mech will be a standalone instrument, setup in firmware to read only the relevant MIDI codes for the drum it plays. All of the physical parts, such as the microcontroller, car door lock actuators and power control modules are readily available on eBay and Ali Express, and a recommended BOM will also be included with suggested search terms.
 
+  * [To TOC](./)
+
 
 ## Adaptable To Any Drum Kit
 The modular design, allowing the project to be built up and added to each drum or other drum kit parts, makes for adaptability to 4 piece, 5 piece or more, with each drumbot module being daisy-chaned via hardware MIDI thru, waiting for and responding only to its relevant MIDI codes - eg the snare waits for MIDI Snare 1 or Snare 2 and MIDI Sidestick commands, using Snare 1 for left stick and Snare 2 for right stick, with a third stick that can either be set up to strike a rim shot or a side stick, programmed in the drum machine to strike in unison with the left or right sticks. The kick drum will be setup to read Kick 1 as kick with rebound or Kick 2 as a damped kick, where the pedal is held against the skin to damp the beat. DOOF or duf, respectively. If you can imagine a way you'd like a drum kit played, you'll be able to adapt the code, designs and operation to suit the playing style. Imagine using a Logic Pro drummer track to play a real kit in the pocket of your recorded bass line.
+
+  * [To TOC](./)
 
 ## Housekeeping
 Of course, for any of this to be useful, it all needs to be understandable, simple, free and open source. If there's a commercial component to the music or art you make, that's fine, the art *created* by any user is not part of, nor affected by the licence. If you want to manufacture systems based on code, designs and parts, there is an additional, commercial clause added to the MIT licence. This doesn't exclude mass production, but it makes a strict requirement to negotiate a licence from project maintainer and payment to the project collective. This licence will apply to all forks.
