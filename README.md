@@ -13,6 +13,8 @@ Arduino code and OpenSCAD drawings for a modular, adaptable robotic drum kit pow
 
 Preliminary code and designs have been added and will be refined as I get time. CAD drawings are in OpenSCAD format. .scad files can be imported into FreeCAD and many other CAD programs if you need to work in a visual environment. The mechanical parts can be 3D printed, the electronics use a single arduino and a DC h-bridge to control a simple linear actuator.
 
+  * [To TOC](#wristy-bot)
+
 ## Workshop-Friendy Metal Mech
 
 I've also added a design for an [all metal mechanism for StickBot](https://github.com/crunchysteve/Wristy-Bot/blob/main/Mechanisms/MetalHardware/README.md) and will be adding details of how to do KickBot and HatBot without 3D printing as well. I figure that not everybody has access to a 3D printer and, while the plastic prototype parts work very reliably, reducing our reliance on plastics is not a bad thing.
@@ -23,11 +25,14 @@ Image: OpenSCAD render of all metal stick mech.
 ## Why "Wristy-Bot"?
 Human drummers, well, good ones, at least, use a wrist-flick action, holding the stick near its balance point, cradling the back of the stick on their ring and pinky fingers. Propulsion by wrist flick stops just before the stick hits the skin, and the standard grip allows the stick to continue rotating until it hits the skin, where it rebounds and comes back to rest with the back of the stick on the minor fingers. While the CAD drawings with this repo show a much simpler mechanism than the human hand and wrist, the principle is the same - a sharp impulse force propells the tip of the stick towards the drum, but not driving the stick into the drum, instead allowing it to rotate beyond the actuator limit, then strike and rebound. The mechanism allows the "underbalanced" stick to repark itself by falling back to it's natural rest, with the help of the rebound as well as the balance of the stick.
 
+  * [To TOC](#wristy-bot)
+
 ## Modular Design
 ![Stick-Bot mechanism mounted on a 10" wood snare.](./img/IMG_6785.JPG)
 Image: Stick-Bot mechanism mounted on a 10" wood snare.
 
 The aim of this project is to create a public document that will help musicians with a modicum of microcontroller skills, or with a friend with said skills, to build a robotic drum kit, driven by a MIDI enabled drum machine or computer DAW (such as Logic Pro X or Ableton), such that one can practice while jamming to the more natural sound of real drums. The desire is to create an archive of firmware code and STL files for a set of 3D printable parts to mount the stick, beater and hi-hat mechanisms on mostly standard drum hardware. Each drum stick mech will be a standalone instrument, setup in firmware to read only the relevant MIDI codes for the drum it plays. All of the physical parts, such as the microcontroller, car door lock actuators and power control modules are readily available on eBay and Ali Express, and a recommended BOM will also be included with suggested search terms.
+
 
 ## Adaptable To Any Drum Kit
 The modular design, allowing the project to be built up and added to each drum or other drum kit parts, makes for adaptability to 4 piece, 5 piece or more, with each drumbot module being daisy-chaned via hardware MIDI thru, waiting for and responding only to its relevant MIDI codes - eg the snare waits for MIDI Snare 1 or Snare 2 and MIDI Sidestick commands, using Snare 1 for left stick and Snare 2 for right stick, with a third stick that can either be set up to strike a rim shot or a side stick, programmed in the drum machine to strike in unison with the left or right sticks. The kick drum will be setup to read Kick 1 as kick with rebound or Kick 2 as a damped kick, where the pedal is held against the skin to damp the beat. DOOF or duf, respectively. If you can imagine a way you'd like a drum kit played, you'll be able to adapt the code, designs and operation to suit the playing style. Imagine using a Logic Pro drummer track to play a real kit in the pocket of your recorded bass line.
@@ -37,3 +42,5 @@ Of course, for any of this to be useful, it all needs to be understandable, simp
 
 Cheers,
 Crunchy
+
+  * [To TOC](#wristy-bot)
