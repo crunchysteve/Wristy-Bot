@@ -13,7 +13,7 @@ Arduino code and OpenSCAD drawings for a modular, adaptable robotic drum kit pow
 
 Preliminary code and designs have been added and will be refined as I get time. CAD drawings are in OpenSCAD format. .scad files can be imported into FreeCAD and many other CAD programs if you need to work in a visual environment. The mechanical parts can be 3D printed, the electronics use a single arduino and a DC h-bridge to control a simple linear actuator.
 
-  * [To TOC](#wristy-bot)
+  * [To TOC](./README.md)
 
 ## Workshop-Friendy Metal Mech
 
@@ -25,7 +25,7 @@ Image: OpenSCAD render of all metal stick mech.
 ## Why "Wristy-Bot"?
 Human drummers, well, good ones, at least, use a wrist-flick action, holding the stick near its balance point, cradling the back of the stick on their ring and pinky fingers. Propulsion by wrist flick stops just before the stick hits the skin, and the standard grip allows the stick to continue rotating until it hits the skin, where it rebounds and comes back to rest with the back of the stick on the minor fingers. While the CAD drawings with this repo show a much simpler mechanism than the human hand and wrist, the principle is the same - a sharp impulse force propells the tip of the stick towards the drum, but not driving the stick into the drum, instead allowing it to rotate beyond the actuator limit, then strike and rebound. The mechanism allows the "underbalanced" stick to repark itself by falling back to it's natural rest, with the help of the rebound as well as the balance of the stick.
 
-  * [To TOC](#wristy-bot)
+  * [To TOC](./README.md)
 
 ## Modular Design
 ![Stick-Bot mechanism mounted on a 10" wood snare.](./img/IMG_6785.JPG)
@@ -43,4 +43,4 @@ Of course, for any of this to be useful, it all needs to be understandable, simp
 Cheers,
 Crunchy
 
-  * [To TOC](#wristy-bot)
+  * [To TOC](./README.md)
