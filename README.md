@@ -13,6 +13,8 @@ Arduino code and OpenSCAD drawings for a modular, adaptable robotic drum kit pow
 
 Preliminary code and designs have been added and will be refined as I get time. CAD drawings are in OpenSCAD format. .scad files can be imported into FreeCAD and many other CAD programs if you need to work in a visual environment. The mechanical parts can be 3D printed, the electronics use a single arduino and a DC h-bridge to control a simple linear actuator.
 
+All mechanisms, printed or metal, will use the same electronics, an arduino for reading MIDI and sending drive or park signals to the h-Bridge(s), and an h-bridge for each motor. As the Snare-Bot will use 2, or even 3, h-bridges and motors (same for hat-bot), you may want to use a Mega 2560 if you want to add a display and control panel for having control over settings or additional routines to generate advanced dynamics. Otherwise, a Nano or Uno will do the job. If you modify any of the designs or software, submit them as a pull request for review.
+
   * [To TOC](./)
 
 ## Workshop-Friendy Metal Mech
