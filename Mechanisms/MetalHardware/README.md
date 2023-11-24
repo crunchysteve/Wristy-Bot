@@ -16,6 +16,8 @@ Version 1 of the all metal Kick-Bot is now described below and 2D sketches for i
 
 There are some parts and materials you'll need to buy for this basic Stick-Bot. I'll also upload some 2D drawings of each individual part, soon, and embed them here. These 2D plans will make it easier for those who don't read OpenSCAD, the CAD language I use to render my designs and create 3D printable models with. Stick bot 2D plans are already uploaded, Kick-Bot 2D drawings will be next.
 
+All mechanisms, printed or metal, will use the same electronics, an arduino for reading MIDI and sending drive or park signals to the h-Bridge(s), and an h-bridge for each motor. As the Snare-Bot will use 2, or even 3, h-bridges and motors, you may want to use a Mega 2560 if you want to add a display and control panel for having control over settings or additional routines to generate advanced dynamics. Otherwise, a Nano or Uno will do the job. If you modify any of the designs or software, submit them as a pull request for review.
+
 ### BILL OF MATERIALS
 ``` Text
 MATERIALS
@@ -65,6 +67,8 @@ An all metal version of Kick-Bot using a 120mm length of 50x50x3 aluminium tube 
 | At the front, the 50x50 angle has its horizontal flange facing forwards, cut out in the middle and drilled in the middle of each remaining flange. On either side of this cutout are 2 pieces of 40x12 angle and a 12x12 wood block to support it. This part of the assemblu clampes to the kick drum rim. The electrical connection end of the motor can be seen protruding through the 44mm hole in the back of the beater riser. The motor direct drives the beater, via a cylindrical perpendicular coupling. M4 grub screws provide the locking force to keep the coupling on the motor shaft and the beater in the coupling. | The entire assembly is held together with M4 bolts of varying lengths. Use nylock nuts and loktite to ensure secure fastening. From this side you can clearly see the beater assembly on the motor shaft, the motor mounting screw holes and the hole ast the top of the beater riser for an M4x40 screw to hold the beater stop. The hole at the back is for a rubber foot similar to the rubber feet the the drum clamp bolts go through at the front. |
 
 The motor chosen is a relatively standard, RS775, 12 volt, 4000 RPM, electric motor. These are often used in hand held vacuum cleaners, portable electric drills and other appliances, so should have plenty of torque for beating the kick drum. The Kick-Bot arduino will need a little extra code and circuitry to read the stall signal from the power control board, allowing for power cut on beat and park when the beater meets the drum sking or the backstop.
+
+I'm using 50x50x3 metric aluminium tubing and angle for my base materials but, if you have a MIG, you could weld it up from steel rather than bolt it together. Even Aluminium can be MAPP gas "soldered", so that's also an option. The holes in the clamping jaws on the drum side of the assembly need to be larger than the M6 bolt and wing nut that tightens them against the kick drum rim, to allow for a range of tilt. Even an M10 hole with "mudguard" washers wouldn't be too big. I plan to cut these 40x12 angles from leftover 50x50x3 for added strength, but standard 40x40x1.6 might be OK.
 
 ## METAL HARDWARE (Hat-Bot)
 (Coming Soon)
