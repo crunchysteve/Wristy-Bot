@@ -27,7 +27,7 @@ threaded them for M3 screws.)
 
 2x 1m lengths of 60x3 aluminium flatbar will build 10 (2x sides)
 1x 1m length of 40x20x2   "     square tube will build 10 (rocker)
-1x 1m length of 10mm      "     round bar (will build enough spacers)
+1x 1m length of 20mm      "     round bar (will build enough spacers)
 
       WORKING
         -   centre drill 3mm hole with lathe for all spacers
